@@ -1,0 +1,3 @@
+/* The purpose of this exercise is to read temperature values from various DS18B20
+1-wire temperature sensors and output the result onto an Excel spreadsheet. The Controlling
+Device used is the Arduino Uno.*/
